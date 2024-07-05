@@ -269,7 +269,7 @@ class App(QMainWindow):
     # Sets up the main window, layout, and UI components and creates a VideoThread instance and connects its signals
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Object Tracking App")
+        self.setWindowTitle("TeleICU Monitoring System")
         self.setFixedSize(1080, 800)  # Main window resolution
 
         # Floral color palette
