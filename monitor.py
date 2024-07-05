@@ -81,10 +81,8 @@ class VideoThread(QThread):
             )
             frame_count += 1
 
-            fps_text = f"FPS: {1 / (end - start).total_seconds():.2f}"
-            cv2.putText(
-                frame, fps_text, (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 8
-            )
+            #fps_text = f"FPS: {1 / (end - start).total_seconds():.2f}" # Uncomment to show FPS
+            #cv2.putText(frame, fps_text, (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 8) # Uncomment to show FPS
 
             # Convert frame to QImage
             rgb_image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
