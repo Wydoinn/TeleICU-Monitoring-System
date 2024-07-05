@@ -235,17 +235,26 @@ class MainWindow(QMainWindow):
                 text_thickness=font_thickness,
                 text_padding=5,
             )
-            motion_label_annotator = sv.LabelAnnotator(
-                color=sv.ColorPalette.DEFAULT,
-                text_position=sv.Position.TOP_RIGHT,
-                text_scale=font_scale,
-                text_thickness=font_thickness,
-                text_padding=5,
-            )
 
-            frame = bounding_box_annotator.annotate(scene=frame, detections=all_detections)
+            frame = bounding_box_annotator.annotate(scene=frame, detections=object_detections)
             frame = object_label_annotator.annotate(scene=frame, detections=object_detections)
-            frame = motion_label_annotator.annotate(scene=frame, detections=motion_detections)
+
+            for box in bounding_boxes:
+                x1, y1, x2, y2 = box.astype(int)
+                roi = frame[y1:y2, x1:x2]
+                motion_results = motion_model(roi)[0]
+                motion_detections_roi = sv.Detections.from_ultralytics(motion_results)
+                motion_detections_roi.xyxy[:, [0, 2]] += x1
+                motion_detections_roi.xyxy[:, [1, 3]] += y1
+
+                motion_label_annotator = sv.LabelAnnotator(
+                    color=sv.ColorPalette.DEFAULT,
+                    text_position=sv.Position.TOP_RIGHT,
+                    text_scale=font_scale,
+                    text_thickness=font_thickness,
+                    text_padding=5,
+                )
+                frame = motion_label_annotator.annotate(scene=frame, detections=motion_detections_roi)
 
             rgb_image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             h, w, ch = rgb_image.shape
