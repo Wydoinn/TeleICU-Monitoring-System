@@ -70,10 +70,8 @@ class VideoProcessor:
             )
             frame_count += 1
 
-            fps_text = f"FPS: {1 / (end - start).total_seconds():.2f}"
-            cv2.putText(
-                frame, fps_text, (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 8
-            )
+            #fps_text = f"FPS: {1 / (end - start).total_seconds():.2f}" # Uncomment if FPS should visible on the screen
+            #cv2.putText(frame, fps_text, (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 8) # # Uncomment if FPS should visible on the screen
 
             self.output_frame = frame
             ret, buffer = cv2.imencode('.jpg', frame)
