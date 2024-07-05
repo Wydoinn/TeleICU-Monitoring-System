@@ -15,7 +15,7 @@ motion_model = YOLOv10("runs/motion_detection/small_runs/detect/train/weights/be
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Object and Motion Detection")
+        self.setWindowTitle("TeleICU Monitoring System Test")
         self.setFixedSize(1080, 840)
         self.setStyleSheet("""
             QMainWindow {
