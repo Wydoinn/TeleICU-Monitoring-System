@@ -1,1 +1,1 @@
-# TeleICU Monitoring System
+# Tele-ICU Monitoring System
