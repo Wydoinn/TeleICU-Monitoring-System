@@ -5,6 +5,7 @@ import torch
 
 window = tk.Tk()
 window.title("Model Export")
+window.geometry("250x100")
 
 # Create a frame for the buttons
 frame = ttk.Frame(window, padding=10)
