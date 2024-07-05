@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TeleICU Monitoring System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">TeleICU Monitoring System</h1>
+        <div class="video-container">
+            <img id="video-feed" src="">
+        </div>
+        <div class="controls">
+            <button id="start-button" class="btn">Start</button>
+            <button id="stop-button" class="btn btn-stop">Stop</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
