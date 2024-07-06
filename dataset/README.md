@@ -2,11 +2,11 @@
 
 There are two datasets: one for object detection and another for motion detection. Both datasets are divided into two categories: one with and one without data augmentation. 
 
-- Object Detection (Data Augmentation) - 11440  Images
-- Motion Detection (Data Augmentation) - 21547 Images
+- Object Detection (data augmentation) - 11440  Images
+- Motion Detection (data augmentation) - 21547 Images
 
-- Object Detection (No Data Augmentation) - 3000  Images
-- Motion Detection (No Data Augmentation) - 5697 Images
+- Object Detection (no data augmentation) - 3000  Images
+- Motion Detection (no data augmentation) - 5697 Images
 
 ### The dataset with data augmentation
 
