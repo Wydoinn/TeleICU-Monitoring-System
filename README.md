@@ -1,8 +1,4 @@
-<div align="center">
-
 # TeleICU Monitoring System 💻🎦
-
-</div>
 
 <table>
   <tr>
