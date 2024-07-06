@@ -1,6 +1,6 @@
 <div align="center">
 
-# TeleICU Monitoring System
+# TeleICU Monitoring System 💻🎦
 
 </div>
 
