@@ -21,7 +21,7 @@ The following augmentation was applied to create 5 versions of each source image
 * Random brigthness adjustment of between -20 and +20 percent
 * Random exposure adjustment of between -15 and +15 percent
 * Random Gaussian blur of between 0 and 3 pixels
-* Salt and pepper noise was applied to 1.5 percent of pixels
+* Salt and pepper noise was applied to 1.5 percent of pixels.
 
 ### The dataset with no data augmentation
 
