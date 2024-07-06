@@ -8,7 +8,7 @@ There are two datasets: one for object detection and another for motion detectio
 - Object Detection (no data augmentation) - 3000  Images
 - Motion Detection (no data augmentation) - 5697 Images
 
-## The dataset with data augmentation
+## The Dataset with Data Augmentation
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
@@ -23,7 +23,7 @@ The following augmentation was applied to create 5 versions of each source image
 * Random Gaussian blur of between 0 and 3 pixels
 * Salt and pepper noise was applied to 1.5 percent of pixels.
 
-## The dataset with no data augmentation
+## The Dataset with No Data Augmentation
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
