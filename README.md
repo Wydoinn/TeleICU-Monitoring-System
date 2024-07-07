@@ -13,6 +13,18 @@ TeleICU with AI is revolutionizing critical care by boosting efficiency and effe
 ## Demo
 https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-63f4-4489-8aab-ebe7e5697443
 
+## Note
+
+- Dataset - [Download Here](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
+
+- Evaluation Metrics - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/evaluation)
+
+- Train Results Examine - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/examine)
+
+- Train Notebooks - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/trains)
+
+- Predicted Output - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/output)
+
 # Installation
 
 **1. Clone This Repository**
