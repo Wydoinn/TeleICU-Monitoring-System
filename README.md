@@ -56,7 +56,7 @@ python app.py
 # Navigate to http://127.0.0.1:5000 on your browser
 ```
 
-- For Window Application
+- For Windows Application
 
 ```bash
 python monitor.py
