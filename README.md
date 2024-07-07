@@ -25,7 +25,7 @@ https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-6
 
 - Predicted Output - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/output)
 
-# Installation
+## Installation
 
 **1. Clone This Repository**
 
@@ -94,6 +94,33 @@ python test.py
 ```
 python convert.py
 ```
+
+## High Accuracy Model
+
+### Object Detection
+
+YOLOv10 small model with data augmentation:
+
+| Class | P | R | mAP50 | mAP50-95 |
+|---|---|---|---|---|
+| all | 0.771 | 0.754 | 0.794 | 0.468 |
+| Family-Member | 0.821 | 0.753 | 0.796 | 0.466 |
+| Intensivist | 0.802 | 0.711 | 0.820 | 0.519 |
+| Nurse | 0.674 | 0.792 | 0.763 | 0.469 |
+| Patient | 0.788 | 0.762 | 0.795 | 0.419 |
+
+### Motion Detection
+
+YOLOv10 small model without data aigmentation:
+
+| Class | P | R | mAP50 | mAP50-95 |
+|---|---|---|---|---|
+| all | 0.798 | 0.659 | 0.782 | 0.459 |
+| Falling | 0.554 | 0.778 | 0.755 | 0.564 |
+| Sitting | 0.903 | 0.599 | 0.798 | 0.457 |
+| Sleeping | 0.944 | 0.611 | 0.883 | 0.524 |
+| Standing | 0.946 | 0.658 | 0.827 | 0.449 |
+| Walking | 0.642 | 0.650 | 0.644 | 0.300 |
 
 ## Acknowledgements
 - This code is built upon the YOLOv10 model and the DeepSort algorithm.
