@@ -61,3 +61,11 @@ python app.py
 ```
 python monitor.py
 ```
+
+## Acknowledgements
+- This code is built upon the YOLOv10 model and the DeepSort algorithm.
+- Credits to the authors and contributors of the respective repositories used in this project.
+
+## References
+- [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
+- [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
