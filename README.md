@@ -53,7 +53,7 @@ pip install .
 
 ```bash
 python app.py
-http://127.0.0.1:5000 # Navigate to the address on your browser
+# Navigate to http://127.0.0.1:5000 on your browser
 ```
 
 - For Window Application
