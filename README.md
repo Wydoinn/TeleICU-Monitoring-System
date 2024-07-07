@@ -144,5 +144,7 @@ YOLOv10 small model without data aigmentation:
 - Credits to the authors and contributors of the respective repositories used in this project.
 
 ## References
+- [Object and Motion Dataset](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
+- [Roboflow Computer Vision Tools](https://roboflow.com/)
 - [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
 - [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
