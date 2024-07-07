@@ -71,8 +71,6 @@ The ```test.py``` is a GUI application for a TeleICU Monitoring System Test buil
 - Saving annotated images and videos.
 - Providing a user-friendly interface with buttons for different prediction modes.
 
-1. **Usage**
-
 ```
 python test.py
 ```
@@ -81,7 +79,6 @@ python test.py
 
 ```convert.py``` A simple Tkinter GUI application for exporting a YOLOv10 model to various formats including TorchScript, ONNX, OpenVINO, and TensorRT, with functionality to select the model file and handle GPU availability for TensorRT export.
 
-**1. Usage**
 ```
 python convert.py
 ```
