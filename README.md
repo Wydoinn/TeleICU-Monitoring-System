@@ -71,7 +71,7 @@ The ```test.py``` is a GUI application for a TeleICU Monitoring System Test buil
 - Saving annotated images and videos.
 - Providing a user-friendly interface with buttons for different prediction modes.
 
-### Usage
+1. **Usage**
 
 ```
 python test.py
