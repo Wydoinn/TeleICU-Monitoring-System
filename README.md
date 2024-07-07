@@ -15,15 +15,15 @@ https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-6
 
 ## Note
 
-- Dataset - [Download Here](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
+- Dataset - [download here](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
 
-- Evaluation Metrics - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/evaluation)
+- Evaluation Metrics - [click here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/evaluation)
 
-- Examine The Train Results. - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/examine)
+- Examine The Train Results. - [click here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/examine)
 
-- Train Notebooks - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/trains)
+- Train Notebooks - [click here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/trains)
 
-- Predicted Output - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/output)
+- Predicted Output - [click here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/output)
 
 ## Installation
 
