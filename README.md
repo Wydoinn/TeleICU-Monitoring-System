@@ -56,22 +56,23 @@ pip install -r requirements.txt
 
 ```
 git clone https://github.com/THU-MIG/yolov10.git
+cd yolov10
 pip install .
 ```
 
 **4. TeleICU Monitoring System Application**
+
+- For Windows Application
+
+```
+python monitor.py
+```
 
 - For Web Application
 
 ```
 python app.py
 # Please visit http://127.0.0.1:5000 on your browser
-```
-
-- For Windows Application
-
-```
-python monitor.py
 ```
 
 ## Test
