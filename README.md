@@ -112,7 +112,7 @@ The images are annotated in [Roboflow](https://roboflow.com/)
 - Sleeping
 - Walking
 
-## High Accuracy Model
+## Performance
 
 #### Object Detection
 
