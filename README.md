@@ -95,9 +95,24 @@ python test.py
 python convert.py
 ```
 
+## Model Classes
+
+#### Object Detection
+- Intensivist
+- Nurse
+- Patient
+- Family Member
+
+#### Motion Detection
+- Falling
+- Standing
+- Sitting
+- Sleeping
+- Walking
+
 ## High Accuracy Model
 
-### Object Detection
+#### Object Detection
 
 YOLOv10 small model with data augmentation:
 
@@ -109,7 +124,7 @@ YOLOv10 small model with data augmentation:
 | Nurse | 0.674 | 0.792 | 0.763 | 0.469 |
 | Patient | 0.788 | 0.762 | 0.795 | 0.419 |
 
-### Motion Detection
+#### Motion Detection
 
 YOLOv10 small model without data aigmentation:
 
