@@ -62,7 +62,7 @@ python app.py
 python monitor.py
 ```
 
-## Testing
+## Test
 
 The ```test.py``` is a GUI application for a TeleICU Monitoring System Test built with PyQt5. It utilizes YOLOv10 models for both object and motion detection. Key features include:
 
@@ -75,6 +75,15 @@ The ```test.py``` is a GUI application for a TeleICU Monitoring System Test buil
 
 ```
 python test.py
+```
+
+## Convert
+
+```convert.py``` A simple Tkinter GUI application for exporting a YOLOv10 model to various formats including TorchScript, ONNX, OpenVINO, and TensorRT, with functionality to select the model file and handle GPU availability for TensorRT export.
+
+**1. Usage**
+```
+python convert.py
 ```
 
 ## Acknowledgements
