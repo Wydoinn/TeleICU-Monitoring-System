@@ -12,3 +12,52 @@ TeleICU with AI is revolutionizing critical care by boosting efficiency and effe
 
 ## Demo of The Project
 https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-63f4-4489-8aab-ebe7e5697443
+
+# Installation
+
+**1. Clone This Repository**
+
+```
+git clone https://github.com/Wydoinn/TeleICU-Monitoring-System.git
+cd TeleICU-Monitoring-System
+```
+
+**2. Create New Environment**
+
+- Using Conda
+
+```
+conda env create -f conda.yml
+conda activate teleicu-monitoring-system
+pip install -r requirements.txt
+```
+
+- Using Pip
+
+```
+python -m virtualenv -p python3.11.7 teleicu-monitoring-system
+source teleicu-monitoring-system/bin/activate
+pip install -r requirements.txt
+```
+
+**3. Clone YOLOv10 Repository**
+
+```
+git clone https://github.com/THU-MIG/yolov10.git
+pip install .
+```
+
+**4. TeleICU Monitoring System Application**
+
+- For Web Application
+
+```
+python app.py
+http://127.0.0.1:5000 # Navigate to the address on your browser
+```
+
+- For Window Application
+
+```
+python monitor.py
+```
