@@ -71,6 +71,11 @@ The ```test.py``` is a GUI application for a TeleICU Monitoring System Test buil
 - Saving annotated images and videos.
 - Providing a user-friendly interface with buttons for different prediction modes.
 
+### Usage
+
+```
+python test.py
+```
 
 ## Acknowledgements
 - This code is built upon the YOLOv10 model and the DeepSort algorithm.
