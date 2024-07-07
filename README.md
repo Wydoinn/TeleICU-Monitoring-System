@@ -10,7 +10,7 @@
   
 TeleICU with AI is revolutionizing critical care by boosting efficiency and effectiveness.
 
-## Demo of The Project
+## Demo
 https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-63f4-4489-8aab-ebe7e5697443
 
 # Installation
