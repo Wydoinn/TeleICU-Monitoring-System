@@ -62,6 +62,16 @@ python app.py
 python monitor.py
 ```
 
+## Testing
+
+The ```test.py``` is a GUI application for a TeleICU Monitoring System Test built with PyQt5. It utilizes YOLOv10 models for both object and motion detection. Key features include:
+
+- Predicting and displaying detections on images, videos, and webcam feeds.
+- Annotating detections with bounding boxes and labels.
+- Saving annotated images and videos.
+- Providing a user-friendly interface with buttons for different prediction modes.
+
+
 ## Acknowledgements
 - This code is built upon the YOLOv10 model and the DeepSort algorithm.
 - Credits to the authors and contributors of the respective repositories used in this project.
