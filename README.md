@@ -1,4 +1,4 @@
-# TeleICU Monitoring System 🖥️🎦
+# [TeleICU Monitoring System](https://github.com/Wydoinn/TeleICU-Monitoring-System)
 
 - TeleICU empowers intensivists, the backbone of ICUs, to manage more patients.  This remote monitoring system leverages AI:
   - YOLOv10: This powerful deep learning model identifies patients and tracks vitals in real-time video feeds.
