@@ -19,7 +19,7 @@ https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-6
 
 - Evaluation Metrics - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/evaluation)
 
-- Train Results Examine - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/examine)
+- Examine The Train Results. - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/examine)
 
 - Train Notebooks - [Click Here](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/trains)
 
