@@ -17,7 +17,7 @@ https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-6
 
 **1. Clone This Repository**
 
-```
+```bash
 git clone https://github.com/Wydoinn/TeleICU-Monitoring-System.git
 cd TeleICU-Monitoring-System
 ```
@@ -26,7 +26,7 @@ cd TeleICU-Monitoring-System
 
 - Using Conda
 
-```
+```bash
 conda env create -f conda.yml
 conda activate teleicu-monitoring-system
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 - Using Pip
 
-```
+```bash
 python -m virtualenv -p python3.11.7 teleicu-monitoring-system
 source teleicu-monitoring-system/bin/activate
 pip install -r requirements.txt
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 **3. Clone YOLOv10 Repository**
 
-```
+```bash
 git clone https://github.com/THU-MIG/yolov10.git
 pip install .
 ```
@@ -51,13 +51,13 @@ pip install .
 
 - For Web Application
 
-```
+```bash
 python app.py
 http://127.0.0.1:5000 # Navigate to the address on your browser
 ```
 
 - For Window Application
 
-```
+```bash
 python monitor.py
 ```
