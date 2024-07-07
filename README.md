@@ -13,7 +13,7 @@ TeleICU with AI is revolutionizing critical care by boosting efficiency and effe
 ## Demo
 https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-63f4-4489-8aab-ebe7e5697443
 
-## Note
+## Checkout
 
 - Dataset - [download here](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
 
@@ -96,6 +96,8 @@ python convert.py
 ```
 
 ## Model Classes
+
+The images are annotated in [Roboflow](https://roboflow.com/)
 
 #### Object Detection
 - Intensivist
