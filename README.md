@@ -3,7 +3,7 @@
 ![TeleICU Logo](https://img.shields.io/badge/TeleICU-Monitoring%20System-blue?style=for-the-badge&logo=github)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
+- [Overview](#Overview)
 - [Demo](#demo)
 - [Key Resources](#key-resources)
 - [Installation](#installation)
