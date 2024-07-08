@@ -130,7 +130,7 @@ YOLOv10 small model with data augmentation:
 
 #### Motion Detection
 
-YOLOv10 small model without data aigmentation:
+YOLOv10 small model without data augmentation:
 
 | Class | P | R | mAP50 | mAP50-95 |
 |---|---|---|---|---|
