@@ -1,8 +1,9 @@
 # [TeleICU Monitoring System](https://github.com/Wydoinn/TeleICU-Monitoring-System)
 
-![Intel Logo](https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/129088f6-88c9-426e-817b-f977c4ed7043)
+![TeleICU Logo](https://img.shields.io/badge/TeleICU-Monitoring%20System-blue?style=for-the-badge&logo=github) <img src="https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/129088f6-88c9-426e-817b-f977c4ed7043" alt="Intel Logo" width="auto" height="30">
 
 ## 📋 Table of Contents
+- [Problem Statement](#problem-statement)
 - [Overview](#overview)
 - [Demo](#demo)
 - [Key Resources](#key-resources)
@@ -13,6 +14,12 @@
 - [Best Model Performance](#best-model-performance)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
+
+## 🔬 Problem Statement
+
+**Innovative Monitoring System for TeleICU Patients Using Video Processing and Deep Learning**
+
+TeleICU is concept for monitoring ICU patients from remote locations to reduce the burden of on-site intensivist. Currently there are multiple products available in this domain where one profession seating at remote location physically monitors one or two remote patients in TeleICU. The proposed solution should work to reduce the burden of remote health care professional so, one remote health care professional can monitor 5 or more patients at single time.
 
 ## 🔍 Overview
 
@@ -173,6 +180,11 @@ YOLOv10 small model without data augmentation:
 - We extend our gratitude to the authors and contributors of the respective repositories used in this project.
 
 ## 📚 References
+
+- [Object and Motion Dataset](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
+- [Roboflow Computer Vision Tools](https://roboflow.com/)
+- [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
+- [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
 
 - [Object and Motion Dataset](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
 - [Roboflow Computer Vision Tools](https://roboflow.com/)
