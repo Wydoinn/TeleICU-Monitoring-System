@@ -177,7 +177,7 @@ YOLOv10 small model without data augmentation:
 ## 🙏 Acknowledgements
 
 - This project is built upon the YOLOv10 model and the DeepSort algorithm.
-- We extend our gratitude to the authors and contributors of the respective repositories used in this project.
+- I extend my gratitude to the authors and contributors of the respective repositories used in this project.
 
 ## 📚 References
 
