@@ -65,6 +65,7 @@ pip install .
 - For Windows Application
 
 ```
+cd ..
 python monitor.py
 ```
 
