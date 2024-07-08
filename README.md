@@ -21,6 +21,8 @@
 
 TeleICU is concept for monitoring ICU patients from remote locations to reduce the burden of on-site intensivist. Currently there are multiple products available in this domain where one profession seating at remote location physically monitors one or two remote patients in TeleICU. The proposed solution should work to reduce the burden of remote health care professional so, one remote health care professional can monitor 5 or more patients at single time.
 
+**Project Presentation:** [click here](https://github.com/Wydoinn/TeleICU-Monitoring-System/blob/905c9387b9d99a7c74c3deeefab61248173b957e/etc/presentation.pptx)
+
 ## 🔍 Overview
 
 TeleICU is an innovative remote monitoring system that empowers intensivists to manage more patients efficiently. By leveraging cutting-edge AI technologies, it revolutionizes critical care:
