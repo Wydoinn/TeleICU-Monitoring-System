@@ -1,4 +1,4 @@
-# [TeleICU Monitoring System](https://github.com/Wydoinn/TeleICU-Monitoring-System)
+# TeleICU Monitoring System
 
 ![TeleICU Logo](https://img.shields.io/badge/TeleICU-Monitoring%20System-blue?style=for-the-badge&logo=github) <img src="https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/129088f6-88c9-426e-817b-f977c4ed7043" alt="Intel Logo" width="auto" height="30">
 
