@@ -6,7 +6,6 @@
 - [Problem Statement](#problem-statement)
 - [Overview](#overview)
 - [Demo](#demo)
-- [Key Resources](#key-resources)
 - [Installation](#installation)
 - [Testing](#testing)
 - [Model Conversion](#model-conversion)
@@ -40,14 +39,6 @@ TeleICU is an innovative remote monitoring system that empowers intensivists to 
 ## 🎥 Demo
 
 [View Demo Video](https://github.com/Wydoinn/TeleICU-Monitoring-System/assets/120785316/82fc5ca4-63f4-4489-8aab-ebe7e5697443)
-
-## 🔗 Key Resources
-
-- [Dataset Download](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
-- [Evaluation Metrics](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/evaluation)
-- [Training Results](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/examine)
-- [Training Notebooks](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/trains)
-- [Predicted Output](https://github.com/Wydoinn/TeleICU-Monitoring-System/tree/main/output)
 
 ## 💻 Installation
 
