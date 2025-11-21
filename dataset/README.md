@@ -30,5 +30,3 @@ The following pre-processing was applied to each image:
 * Resize to 640x640 (Stretch)
 
 No image augmentation techniques were applied.
-
-Dataset Link - [Download Here](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
