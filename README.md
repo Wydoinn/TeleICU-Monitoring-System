@@ -174,7 +174,7 @@ YOLOv10 small model without data augmentation:
 
 ## 📚 References
 
-- [Object and Motion Dataset](https://drive.google.com/drive/folders/1HSTfpo4IAEo9k5aSaw5KK92__wk-zGVT?usp=sharing)
+- **Dataset Information**: See [dataset/README.md](dataset/README.md) for detailed information about acquiring or creating datasets for this project
 - [Roboflow Computer Vision Tools](https://roboflow.com/)
 - [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
 - [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
